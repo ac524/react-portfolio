@@ -1,4 +1,3 @@
-import './App.css';
 import { Navbar } from './components/Navbar';
 import { Portfolio } from './components/Portfolio';
 import { Profile } from './components/Profile';
